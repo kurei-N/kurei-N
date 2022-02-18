@@ -2,7 +2,6 @@
 - 👀 I’m interested in anything.
 - 🌱 I’m currently learning anything that could be useful in the future.
 - 💞️ I’m looking to collaborate on working to something amazing.
-- 📫 How to reach just DM me.
 
 <!---
 kurei-N/kurei-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
